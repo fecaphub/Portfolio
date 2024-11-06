@@ -3,9 +3,9 @@
 </p>
 
 
-# Portfolio
+# Portfólio
 
-Seja bem vindo ao portfolio dos cursos de Análise e Desenvolvimento de Sistemas, e Ciência da Computação da FECAP!
+Seja bem vindo ao portfólio dos cursos de Análise e Desenvolvimento de Sistemas, e Ciência da Computação da FECAP!
 
 Aqui você encontrará todos os projetos desenvolvidos pelos alunos durante seu período na FECAP.
 
