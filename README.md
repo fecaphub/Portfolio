@@ -1,4 +1,4 @@
-<p align="right">
+<p align="center">
 <a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
 </p>
 
@@ -40,20 +40,66 @@ Para a execução de todos os projetos há uma equipe fenomenal envolvida e aqui
 <br><a href="https://www.linkedin.com/in/vheltai/" target="_blank" rel="noopener noreferrer"> Vinicius Heltai</a>
 
 ## Índice de Projetos
+Basta clicar no nome do curso para acessar o menu em cascata.
 
 <details>
-<summary><h3>ADS</h3></summary>
+<summary><h3>Análise e Desenvolvimento de Sistemas</h3></summary>
+<details>
 <summary><h3>Primeiro Semestre</h3></summary>
 <a href="https://github.com/2022-1-NADS1">2022-1</a>
 <br><a href="https://github.com/2023-1-NADS1">2023-1</a>
 <br><a href="https://github.com/2023-2-NADS1">2023-2</a>
 <br><a href="https://github.com/2024-1-NADS1">2024-1</a>
-<br><a href="https://github.com/2023-2-NADS1">2024-2</a>
+<br><a href="https://github.com/2024-2-NADS1">2024-2</a>
 </details>
-<a href="https://github.com/2022-1-NADS1">2022-1</a>
-<br><a href="https://github.com/2023-1-NADS1">2023-1</a>
-<br><a href="https://github.com/2023-2-NADS1">2023-2</a>
-<br><a href="https://github.com/2024-1-NADS1">2024-1</a>
-<br><a href="https://github.com/2023-2-NADS1">2024-2</a>
+<details>
+<summary><h3>Segundo Semestre</h3></summary>
+<a href="https://github.com/2022-2-NADS2">2022-2</a>
+<br><a href="https://github.com/2023-2-NADS2">2023-2</a>
+<br><a href="https://github.com/2024-1-NADS2">2024-1</a>
+<br><a href="https://github.com/2024-2-NADS2">2024-2</a>
+</details>
+<details>
+<summary><h3>Terceiro Semestre</h3></summary>
+<a href="https://github.com/2022-1-NADS3">2022-1</a>
+<br><a href="https://github.com/2023-1-NADS3">2023-1</a>
+<br><a href="https://github.com/2024-1-NADS3">2024-1</a>
+<br><a href="https://github.com/2024-2-NADS3">2024-2</a>
+</details>
+<details>
+<summary><h3>Quarto Semestre</h3></summary>
+<a href="https://github.com/2022-2-NADS4">2022-2</a>
+<br><a href="https://github.com/2023-2-NADS4">2023-2</a>
+<br><a href="https://github.com/2024-2-NADS4">2024-2</a>
+</details>
+</details>
+
+<details>
+<summary><h3>Ciência da Computação</h3></summary>
+<details>
+<summary><h3>Primeiro Semestre</h3></summary>
+<a href="https://github.com/2023-1-MCC1">2023-1</a>
+<br><a href="https://github.com/2023-2-MCC1">2023-2</a>
+<br><a href="https://github.com/2024-1-MCC1">2024-1</a>
+<br><a href="https://github.com/2024-1-NCC1">2024-1 (Noturno)</a>
+<br><a href="https://github.com/2024-2-MCC1">2024-2</a>
+</details>
+<details>
+<summary><h3>Segundo Semestre</h3></summary>
+<a href="https://github.com/2023-1-MCC2">2023-1</a>
+<br><a href="https://github.com/2023-2-MCC2">2023-2</a>
+<br><a href="https://github.com/2024-1-MCC2">2024-1</a>
+<br><a href="https://github.com/2024-2-MCC2">2024-2</a>
+<br><a href="https://github.com/2024-2-NCC2">2024-2 (Noturno)</a>
+</details>
+<details>
+<summary><h3>Terceiro Semestre</h3></summary>
+<a href="https://github.com/2024-1-NCC3">2024-1</a>
+<br><a href="https://github.com/2024-2-NCC3">2024-2</a>
+</details>
+<details>
+<summary><h3>Quarto Semestre</h3></summary>
+<a href="https://github.com/2024-2-NCC4">2024-2</a>
+</details>
 </details>
 
