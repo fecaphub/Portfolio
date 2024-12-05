@@ -35,7 +35,7 @@ Para a execução de todos os projetos há uma equipe fenomenal envolvida e aqui
 <br><a href="https://www.linkedin.com/in/paula-astorino-432b5812a/" target="_blank" rel="noopener noreferrer"> Paula Astorino </a>
 <br><a href="https://www.linkedin.com/in/remuniz/" target="_blank" rel="noopener noreferrer"> Renata Muniz do Nascimento </a>
 <br><a href="https://www.linkedin.com/in/professorrodnil/" target="_blank" rel="noopener noreferrer"> Rodnil da Silva Moreira Lisbôa </a>
-<a href="https://www.linkedin.com/in/ronaldo-araujo-pinto-3542811a/" target="_blank" rel="noopener noreferrer"> Ronaldo Araujo Pinto </a>
+<br><a href="https://www.linkedin.com/in/ronaldo-araujo-pinto-3542811a/" target="_blank" rel="noopener noreferrer"> Ronaldo Araujo Pinto </a>
 <br><a href="https://www.linkedin.com/in/victorbarq/" target="_blank" rel="noopener noreferrer"> Victor Bruno Alexander Rosetti de Quiroz </a>
 <br><a href="https://www.linkedin.com/in/vheltai/" target="_blank" rel="noopener noreferrer"> Vinicius Heltai</a>
 
